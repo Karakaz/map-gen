@@ -1,4 +1,4 @@
-##map-gen
+## map-gen
 
 A engine to dynamically create random maps from parameters for games like Risk
 
